@@ -1,2 +1,4 @@
-Origin Line 1: ABC
+Changed Line 1: ABc
+New Line 1.1: aaa
 Origin Line 2: XYC
+New Line 2.1: bbb 
