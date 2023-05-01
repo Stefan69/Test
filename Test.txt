@@ -1,5 +1,5 @@
 Changed Line 1: ABcD
 New Line 1.1: aaa
 Origin Line 1.2: bbbAB
-Origin Line 2.2: XYZ-abc
+Origin Line 2.2: XYZ-+abc
 New Line 2.1: bbb 
