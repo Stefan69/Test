@@ -1,5 +1,9 @@
 Changed Line 1: ABcD
 New Line 1.1: aaa
 Origin Line 1.2: bbbAB
+<<<<<<< HEAD
 Origin Line 2: XYZ -+abc
+=======
+Origin Line 2.2: XYZ-abc
+>>>>>>> 080df01ad676c556bd67c179eaa11d4fbf9968ed
 New Line 2.1: bbb 
